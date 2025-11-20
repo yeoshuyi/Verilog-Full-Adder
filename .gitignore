@@ -39,8 +39,7 @@
 #########
 #Do NOT ignore *.xdc files
 !*.xdc
-mmmmmmmuu
-umuu#########
+#########
 #TCL - files
 #########
 !*.tcl
